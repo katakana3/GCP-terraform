@@ -1,0 +1,1 @@
+[GCP:Architecture](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
