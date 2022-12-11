@@ -1,7 +1,7 @@
 provider "google" {
-  credentials = file("~/.ssh/katakana-tr-terraform.json")
+  credentials = file("***")
 
-  project = "katakana-tr"
+  project = "***"
   region  = "us-west1"
   zone    = "us-west1-a"
 }
